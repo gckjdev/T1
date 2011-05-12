@@ -1,2 +1,0 @@
-This is a test file encoding in UTF-8.
-这是一个用UTF-8编码的文件。
